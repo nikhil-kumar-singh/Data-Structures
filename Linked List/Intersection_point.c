@@ -44,7 +44,7 @@ int IntesectionNode(struct Node* head1, struct Node* head2)
              return -1;
         }
         current1=current1->next;
- }
+    }
  while(current1!=NULL && current2!=NULL)
  {
    if(current1==current2)
