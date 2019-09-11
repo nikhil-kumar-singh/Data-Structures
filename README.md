@@ -9,3 +9,7 @@ Data structure using C
 2. **Searching**
 	+ [Linear](https://github.com/nikhil-kumar-singh/Data-Structures/blob/master/Searching/linear_search.c)
 	+ [Binary](https://github.com/nikhil-kumar-singh/Data-Structures/blob/master/Searching/Binary_search.c)
+
+3. **Stack**
+	+ [Stack using queue](https://github.com/nikhil-kumar-singh/Data-Structures/blob/master/Stack/stack_using_queue.c)
+	
