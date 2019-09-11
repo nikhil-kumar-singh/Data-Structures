@@ -38,13 +38,13 @@ int IntesectionNode(struct Node* head1, struct Node* head2)
 	struct Node* current2 = head2;
 	int i;
 	for(i=0;i<d;i++)
-    {
+       {
         if(current1==NULL)
         {
              return -1;
         }
         current1=current1->next;
-    }
+       }
  while(current1!=NULL && current2!=NULL)
  {
    if(current1==current2)
